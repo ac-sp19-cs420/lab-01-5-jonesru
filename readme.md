@@ -1,3 +1,8 @@
+# Grade: 85
+Your code crashes immediately. So, it's hard to test. It's It looks like you should have just tested if current is null before testing current->head
+
+Also, Your implementation for stack seems overly complicated. 
+
 # Lab 1.5
 
 **Objective**: The objective of this lab is to get better understanding of C. You will do this by building the following data structures.  Each of these data structures should be in their own `.h/.c` files.
